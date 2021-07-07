@@ -1,0 +1,207 @@
+*{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+body{
+    width:100%;
+    overflow-x:hidden;
+}
+.logo{
+    margin-left:30px;
+ margin-top: 15px;
+    
+}
+.icon{
+    margin-top: -10px;
+}
+.iconme{
+     margin-top: -20px;
+}
+.hero{
+    position: relative;
+}
+.register{
+    position: absolute;
+    top:5%;
+    left:80%;
+}
+.imgcontent hr{
+  background-color:white;
+    line-height:3px;
+    width:30px;
+
+    padding:2px;
+  
+}
+.sign{
+    padding:10px;
+    border-radius:5px;
+    background-color: transparent;
+    color:white;
+    border:1px solid white;
+}
+  .logo ul{
+    list-style-type: none;
+    float:right;
+    margin-top:15px;
+}
+ul li{
+    display:inline-block;
+    
+}
+ul li a{
+    text-decoration: none;
+    color:blue;
+    padding:15px;
+}
+.logo img{
+    float:left;
+    width:75px;
+    height:auto;
+}
+.content h1{
+    margin-top: 150px;
+    font-weight:700;
+    font-size:50px;
+}
+.para{
+    margin-top:50px;
+    font-size:20px;
+}
+.box{
+  
+    box-shadow: 0 0 10px ;
+}
+.boxgreen{
+    background-color: lightgreen;
+}
+
+.email{
+    background-color: greenyellow;
+}
+.head{
+    text-align: center;
+}
+.head span{
+    color:greenyellow;
+}
+.busy{
+    width:250px;
+    height:50px;
+    background-color:limegreen;
+    color:white;
+    font-size:20px;
+    border-radius:5px;
+    margin-top:30px;
+}
+.content-box-md{
+    padding:80px;
+}
+ol li{
+    list-style-type: none;
+    margin-top: 10px;
+}
+ol li a {
+    text-decoration:none;
+    color:black;
+}
+
+.zou{
+    background-color: limegreen;
+    text-align:center;
+    color:white;
+    padding:25px;
+}
+.bounce{
+    padding:10px;
+    width:150px;
+    
+}
+.foot{
+    margin-top:40px;
+}
+.content-box-sm{
+    padding:50px;
+}
+/*about-02*/
+#about-02{
+   
+    padding:100px;
+}
+.about-item{
+  background-color:white;
+    padding:80px 40px;
+    -webkit-box-shadow:0px 0px 10px;    box-shadow:0px 0px 10px;
+    -webkit-transition:all 0.5s ease; transition:all 0.5s ease;
+}
+
+.about-item h3{
+    font-size:30px;
+    
+    
+}
+.about-item hr{
+  background-color: aqua;
+    height:3px;
+    width:80px;
+    margin-left:128px;
+   
+}
+.about-item:hover{
+    background-color: limegreen;
+    color:white;
+}
+.wrap{
+    margin-left:15px;
+    margin-bottom: 20px;
+}
+
+.content,.para,.button{
+    margin-left: 25px;
+}
+.farmer{
+    box-shadow: 0px 0px 10px;
+}
+#team{
+    background-color: white;
+    padding:70px;
+}
+.image{
+    position:relative;
+}
+.image p{
+    color:limegreen;
+}
+.imgcontent{
+    position:absolute;
+    top:20%;
+    color:white;
+    left:10%;
+}
+p.pie{
+    color:white;
+}
+.farmbtn{
+    padding:10px;
+    color:limegreen;
+}
+#heading{
+    margin-left:20px;
+}
+.banner{
+    position:relative;
+}
+.bannercontent{
+    position:absolute;
+    top:20%;
+    margin-left:30px;
+    color:white;
+}
+.corn{
+    text-align: center;
+   
+}
+.corna{
+    margin-top: 150px;
+}
