@@ -205,3 +205,43 @@ p.pie{
 .corna{
     margin-top: 150px;
 }
+/* servicse*/
+/*service 02*/
+#service-02{
+    background-image: url("../images/banner.png");
+    height:700px;
+}
+#service-tabs ul{
+    margin-bottom: 30px;
+}
+#service-tabs ul li{
+    padding:5px 30px;
+    
+}
+#service-tabs ul li a{
+    text-decoration: none;
+    font-family:cursive;
+    font-size: 20px;
+    font-weight:500;
+
+}
+#service-tabs ul li.r-tabs-state-active a{
+    color:yellow;
+}
+.tab-bg p{
+    margin:40px 0;
+    font-size:20px;
+}
+.tab-bg h3{
+    font-size: 40px;
+    color:chartreuse;
+}
+.serve{
+    text-align: center;
+    color:white;
+    margin-top:50px;
+}
+.serve-inner{
+    color:white;
+    margin-top: 70px;
+}
